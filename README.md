@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I am Shahadat Hussain Parvez.
+My research interests include Embedded System, Power Electronics and Big Data Analysis. I also have keen interest in Machine Learning and Semiconductor Science.
 <!--
 **shparvez001/shparvez001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
