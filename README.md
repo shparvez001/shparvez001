@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="description" content=""><meta name="author" content="shparvez001">
-	<title>Shahadat Hussain Parvez</title>
-	<!-- Bootstrap core CSS -->
+	<!-- <title>Shahadat Hussain Parvez</title>
+	Bootstrap core CSS -->
 	<link href="shpnew/vendor/bootstrap/css/bootstrap.css" rel="stylesheet" /><!-- Custom fonts for this template -->
 	<link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet" />
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
         </span>
 
       </a>
+      <!--
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="gallery.html">My Perspective</a></li>
 </ul>
-</div>
+</div>-->
 </div>
 </nav>
 <!--
