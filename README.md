@@ -49,13 +49,13 @@ Here are some ideas to get you started:
         </span>
 
       </a>
-      <!--
+<!--
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-
+-->
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
+<!--
 <ul class="navbar-nav">
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#websites">Websites</a></li>
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
 	<li class="nav-item"><a class="nav-link js-scroll-trigger" href="gallery.html">My Perspective</a></li>
-</ul>
-</div>-->
+</ul>-->
+</div>
 </div>
 </nav>
 <!--
