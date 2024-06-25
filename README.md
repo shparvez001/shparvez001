@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!-- <div style="overflow: auto; height:100%;"><a class="navbar-brand js-scroll-trigger" href="#page-top"><span class="d-block d-md-none"><img alt="" class="img-lol img-profile rounded-circle mx-auto mb-2" src="shpnew/img/profile_480.jpg" /> </span> <span class="d-none d-md-block"> <img alt="" class="img-fluid img-profile rounded-circle mx-auto mb-2" src="shpnew/img/profile_480.jpg" /> </span> </a><button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button"></button>
 -->
   <div class="navv" style="overflow: auto; height:100%;">
-	<a class="navbar-brand js-scroll-trigger" href="#page-top">
+<!--	<a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-md-none">
 		<img class="img-lol img-profile rounded-circle mx-auto mb-2" src="shpnew/img/profile_480.jpg" alt="">
 		</span>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
         </span>
 
       </a>
-<!--
+
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -358,15 +358,15 @@ My research interests include Embedded System, Power Electronics and Big Data An
 </div>
 &nbsp;
 
-<div class="subheading mb-3 ">
+<!--  <div class="subheading mb-3 ">
 <h4>Web Developments</h4>
 </div>
 
-<ul class="list-inline list-icons"><!--  <li class="list-inline-item">
+<ul class="list-inline list-icons"><li class="list-inline-item">
               <img src="svg/c.svg" style="width:40px;height:40px; allign: center; float:right;">
-            </li> -->
+            </li> 
             <li class="list-inline-item">
-              <i class="devicons devicons devicons-php"></i>
+              <i class="devicons devicons devicons-php" alt="PHP"></i>
             </li>
 			<li class="list-inline-item">
               <i class="devicons devicons-mysql"></i>
@@ -387,7 +387,7 @@ My research interests include Embedded System, Power Electronics and Big Data An
               <i class="devicons devicons-joomla"></i>
             </li>
 </ul>
-</div>
+</div>-->
 </section>
 
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
