@@ -89,37 +89,16 @@ O level
 
 ## Skills
 
-#### Programming
+| **Programming**             | **Embedded Platforms** | **Simulation**                                | **Data Analysis** |
+|-----------------------------|------------------------|-----------------------------------------------|--------------------|
+| * C                         | * AVR                 | * Circuit: PSpice, Psim                      | * R               |
+| * Python                    | * PIC                 | * PCB: Proteus, Eagle                        | * Python          |
+| * Matlab                    | * Arduino             | * Power System: IPSA, Neplan, Power world    | * Azure ML        |
+| * Assembly                  |                        | * CAD: Autocad, Autodesk 123d                | * Excel           |
+| * Latex                     |                        | * COMSOL                                     |                    |
+| * Processing                |                        | * Simulink                                   |                    |
+|                             |                        | * Fritzing                                   |                    |
 
-*   C
-*   Python
-*   Matlab
-*   Assembly
-*   Latex
-*   Processing
-
-#### Embedded Platforms
-
-*   AVR
-*   PIC
-*   Arduino
-
-#### Simulation
-
-*   Circuit: PSpice, Psim
-*   PCB:Proteus, Eagle
-*   Power System: IPSA, Neplan, Power world
-*   CAD: Autocad, Autodesk 123d
-*   COMSOL
-*   Simulink
-*   Fritzing
-
-#### Data Analysis
-
-*   R
-*   Python
-*   Azure ML
-*   Excel
 
  
 #### Web Developments
