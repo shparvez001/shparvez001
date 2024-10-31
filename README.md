@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/shparvez001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/shparvez001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" alt="Facebook"/></a>
   <a href="https://twitter.com/shparvez001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" alt="Twitter"/></a>
-  <a href="https://www.youtube.com/channel/shparvez002" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40px" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/channel/shparvez002" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"" width="120px" alt="YouTube"/></a>
   <a href="https://github.com/shparvez001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/></a>
 </p>
 
