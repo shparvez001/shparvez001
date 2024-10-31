@@ -172,7 +172,7 @@ I always had the passion to learn new things in new ways. In my opinion MOOC is 
 ## Websites
 
 I am a hobbyist web developer. I have designed some websites (Not so popular) for my own personal satisfaction.  
-My portfolio of websites includes my personal websites, blogs and other Organisation sites. Some of my sites which are live now are listed here
+My portfolio of websites includes my personal websites, blogs and other Organisation sites. I used to host my sites on a dedicated domain but I have recently stopped using that domain. Some of my old sites are listed here
 
 1.  Blog of me: [http://blog.shparvez.net](http://blog.shparvez.net)
 2.  My site where I upload contents for different examination preparation content: [http://www.students.shparvez.net/](http://www.students.shparvez.net/)
