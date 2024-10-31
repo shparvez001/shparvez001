@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ### North East University Bangladesh
 
-Teaching Different courses and Take Lab related to the subjects. Coordinating department management related tasks like creating course offer list and routines, etc..
-**Assistant Professor [March 2022 - Present]**
-**Lecturer [January 2018 - February 2022]**
+Teaching Different courses and Take Lab related to the subjects. Coordinating department management related tasks like creating course offer list and routines, etc..<br>
+**Assistant Professor [March 2022 - Present]**<br>
+**Lecturer [January 2018 - February 2022]**<br>
 
 **Courses Taught**
 * Basic Electrical Engineering
@@ -61,9 +61,8 @@ Teaching Different courses and Take Lab related to the subjects. Coordinating de
 
 
 ### Sylhet Engineering College
-Teaching Different courses and Take Lab related to the subjects.
-
-**Guest Lecturer [July 2017 - January 2018]**
+Teaching Different courses and Take Lab related to the subjects.<br>
+**Guest Lecturer [July 2017 - January 2018]**<br>
 
 **Courses Taught**
 
@@ -71,7 +70,6 @@ Teaching Different courses and Take Lab related to the subjects.
 *   Microprocessor and Microcontroller
 *   Numerical Methods
 *   Electronic Circuit Simulation
-
 
 
 ## Education
@@ -91,37 +89,42 @@ O level
 
 ## Skills
 
-#### Programming
-
-*   C
-*   Python
-*   Matlab
-*   Assembly
-*   Latex
-*   Processing
-
-#### Embedded Platforms
-
-*   AVR
-*   PIC
-*   Arduino
-
-#### Simulation
-
-*   Circuit: PSpice, Psim
-*   PCB:Proteus, Eagle
-*   Power System: IPSA, Neplan, Power world
-*   CAD: Autocad, Autodesk 123d
-*   COMSOL
-*   Simulink
-*   Fritzing
-
-#### Data Analysis
-
-*   R
-*   Python
-*   Azure ML
-*   Excel
+<table>
+  <tr>
+    <td>
+      #### Programming
+      * C
+      * Python
+      * Matlab
+      * Assembly
+      * Latex
+      * Processing
+    </td>
+    <td>
+      #### Embedded Platforms
+      * AVR
+      * PIC
+      * Arduino
+    </td>
+    <td>
+      #### Simulation
+      * Circuit: PSpice, Psim
+      * PCB: Proteus, Eagle
+      * Power System: IPSA, Neplan, Power world
+      * CAD: Autocad, Autodesk 123d
+      * COMSOL
+      * Simulink
+      * Fritzing
+    </td>
+    <td>
+      #### Data Analysis
+      * R
+      * Python
+      * Azure ML
+      * Excel
+    </td>
+  </tr>
+</table>
 
  
 
