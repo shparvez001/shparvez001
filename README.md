@@ -89,64 +89,42 @@ O level
 
 ## Skills
 
-<table>
-  <tr>
-    <td>
-      #### Programming
-      * C
-      * Python
-      * Matlab
-      * Assembly
-      * Latex
-      * Processing
-    </td>
-    <td>
-      #### Embedded Platforms
-      * AVR
-      * PIC
-      * Arduino
-    </td>
-    <td>
-      #### Simulation
-      * Circuit: PSpice, Psim
-      * PCB: Proteus, Eagle
-      * Power System: IPSA, Neplan, Power world
-      * CAD: Autocad, Autodesk 123d
-      * COMSOL
-      * Simulink
-      * Fritzing
-    </td>
-    <td>
-      #### Data Analysis
-      * R
-      * Python
-      * Azure ML
-      * Excel
-    </td>
-  </tr>
-</table>
+#### Programming
+
+*   C
+*   Python
+*   Matlab
+*   Assembly
+*   Latex
+*   Processing
+
+#### Embedded Platforms
+
+*   AVR
+*   PIC
+*   Arduino
+
+#### Simulation
+
+*   Circuit: PSpice, Psim
+*   PCB:Proteus, Eagle
+*   Power System: IPSA, Neplan, Power world
+*   CAD: Autocad, Autodesk 123d
+*   COMSOL
+*   Simulink
+*   Fritzing
+
+#### Data Analysis
+
+*   R
+*   Python
+*   Azure ML
+*   Excel
 
  
-
 #### Web Developments
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001)](https://github.com/anuraghazra/github-readme-stats)
 
-## Research Interests
-
-My research interest includes
-
-*   Embedded Systems
-*   Power Electronics
-*   Electronics
-*   Machine Learning
-*   Big Data Analysis
-*   Internet of Things
-*   Control Systems
-
-### Other Interests
-
-In free time I like to explore everything science. I also like to explore new trends in web development, as I some times build websites as a hobby.  
-Apart from all these, I like to watch movies and Television shows especially scifi and comedy.
 
 ## Publications
 
@@ -220,12 +198,4 @@ My portfolio of websites includes my personal websites, blogs and other Organisa
 4.  For Sylhet Engineering College Students there is [http://sec.shparvez.net](http://sec.shparvez.net), where I used to upload and share information related to the courses I teach there. The website is currently inactive.
 5.  During my time as student in SUST, I developed website for our department using joomla. A copy of the website is available here: [http://shparvez.net/eee](http://shparvez.net/eee) .
 
-## Contact Me
 
-Contact Me to get any information
-
-Sylhet, Bangladesh
-
-+880 1723807161
-
-shparvez001@gmail.com
