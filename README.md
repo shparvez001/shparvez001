@@ -91,18 +91,19 @@ O level
 
 | **Programming**             | **Embedded Platforms** | **Simulation**                                | **Data Analysis** |
 |-----------------------------|------------------------|-----------------------------------------------|--------------------|
-| * C                         | * AVR                 | * Circuit: PSpice, Psim                      | * R               |
-| * Python                    | * PIC                 | * PCB: Proteus, Eagle                        | * Python          |
-| * Matlab                    | * Arduino             | * Power System: IPSA, Neplan, Power world    | * Azure ML        |
-| * Assembly                  |                        | * CAD: Autocad, Autodesk 123d                | * Excel           |
-| * Latex                     |                        | * COMSOL                                     |                    |
-| * Processing                |                        | * Simulink                                   |                    |
-|                             |                        | * Fritzing                                   |                    |
-
+| C                           | AVR                    | Circuit: PSpice, Psim                        | R                 |
+| Python                      | PIC                    | PCB: Proteus, Eagle                          | Python            |
+| Matlab                      | Arduino                | Power System: IPSA, Neplan, Power world      | Azure ML          |
+| Assembly                    |                        | CAD: Autocad, Autodesk 123d                  | Excel             |
+| Latex                       |                        | COMSOL                                       |                   |
+| Processing                  |                        | Simulink                                     |                   |
+|                             |                        | Fritzing                                     |                   |
 
  
 #### Web Developments
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001)](https://github.com/anuraghazra/github-readme-stats)
+
+![Shahadat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shparvez001&show_icons=true&theme=transparent)
 
 
 ## Publications
