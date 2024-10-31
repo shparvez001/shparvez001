@@ -101,7 +101,7 @@ O level
 
  
 #### Web Developments
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Shahadat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shparvez001&show_icons=true&theme=transparent)
 
