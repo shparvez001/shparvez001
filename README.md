@@ -101,17 +101,19 @@ O level
 
  
 #### Web Developments
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shparvez001&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Shahadat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shparvez001&show_icons=true&theme=transparent)
+<!--![Shahadat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shparvez001&show_icons=true&theme=transparent) -->
 
 
 ## Publications
 
 ### Journal Paper
 
-1.  J. K. Saha, **S. H. Parvez** and P. R. Saha, “Design and Implementation of a Compact Temperature, Heartbeat and ECG Measurement Module”, International Journal of Engineering Trends and Technology, 2018 [PDF](https://www.researchgate.net/publication/327908515_Design_and_Implementation_of_a_Compact_Temperature_Heartbeat_and_ECG_Measurement_Module)
-2.  **S. H. Parvez**, J. K. Saha, M. J. Hossain, H. Hussain, Md. M. A. Ghuri, T. A. Chowdhury, Md. M. Rahman, N. Z. Shuchi, A. Islam, M. Hasan and B. Paul, “A Novel Design and Implementation of Electronic Weather Station and Weather Data Transmission System Using GSM Network”,WSEAS TRANSACTIONS ON CIRCUITS AND SYSTEMS, 2016 [PDF](https://www.researchgate.net/publication/298344488_A_Novel_Design_and_Implementation_of_Electronic_Weather_Station_and_Weather_Data_Transmission_System_Using_GSM_Network)
+1. Ifte Khairul Amin, Md. Nahid Islam, Azam Jaman, Md. Kabir Hasan, **Shahadat Hussain Parvez**, and Md. Salim Shahed Shajid, "Analytical hierarchy process and economic analysis for optimal renewable sites in Bangladesh," *Environmental Science and Pollution Research*, vol. 30, pp. 92332–92358, July 24, 2023.[Paper](https://link.springer.com/article/10.1007/s11356-023-28463-3)
+
+2.  J. K. Saha, **S. H. Parvez** and P. R. Saha, “Design and Implementation of a Compact Temperature, Heartbeat and ECG Measurement Module”, International Journal of Engineering Trends and Technology, 2018 [PDF](https://www.researchgate.net/publication/327908515_Design_and_Implementation_of_a_Compact_Temperature_Heartbeat_and_ECG_Measurement_Module)
+3.  **S. H. Parvez**, J. K. Saha, M. J. Hossain, H. Hussain, Md. M. A. Ghuri, T. A. Chowdhury, Md. M. Rahman, N. Z. Shuchi, A. Islam, M. Hasan and B. Paul, “A Novel Design and Implementation of Electronic Weather Station and Weather Data Transmission System Using GSM Network”,WSEAS TRANSACTIONS ON CIRCUITS AND SYSTEMS, 2016 [PDF](https://www.researchgate.net/publication/298344488_A_Novel_Design_and_Implementation_of_Electronic_Weather_Station_and_Weather_Data_Transmission_System_Using_GSM_Network)
 
 ### Conference Paper
 
