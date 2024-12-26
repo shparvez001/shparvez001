@@ -123,32 +123,35 @@ O level
 
 ## Projects Completed
 
-1. [NEUB Degree Verification System](https://neub.edu.bd/dvs/)
-2. [NEUB Online Admission System](https://neub.edu.bd/apply/)
-1.  Analysis and Implementation of Ćuk Topology Based Improved Power Quality Single Phase AC to DC Converter \[Thesis topic\]
-2.  [Implementation of portable electronic mini weather station](https://shparvez001.github.io/projects.html#weather)
-3.  [Biomedical Data Acquisition, Storage and Delivery System for Remote Health Monitoring](https://shparvez001.github.io/projects.html#biom)
-4.  [Micro-controller based fire alarm system with extinguisher](https://shparvez001.github.io/projects.html#fire-fighting-system)
-5.  [Implementation of submarine robot for underwater navigation and communication](https://shparvez001.github.io/projects.html#submarine-bot)
-6.  [Low cost data transmission system via LED lighting with over 50 Bps speed](https://shparvez001.github.io/projects.html#lifi)
-7.  [Temperature logger for Biomedical Use](https://shparvez001.github.io/projects.html#temp-logger)
-8.  [Remote control Robotic Car](https://shparvez001.github.io/projects.html#rcr-car)
-9.  Design and implementation of home automation system
-10.  Cell phone controlled mini car
-11.  [Anemometer](https://shparvez001.github.io/projects.html#anemometer)
-12.  Implementing Voltmeter, Ammeter and Watt-meter using micro-controller
-13.  Digital IC tester
-14.  Micro-controller based clock with stopwatch and timer.
-15.  [Micro-controller based rotating POV display](https://shparvez001.github.io/projects.html#pov-display)
-16.  Single Phase 150 VA transformer
-17.  Construction of a three-phase inductive load
-18.  Designing of electrical service system of a garments floor.
+1.  [NEUB Degree Verification System](https://neub.edu.bd/dvs/)
+2.  [NEUB Online Admission System](https://neub.edu.bd/apply/)
+3.  Analysis and Implementation of Ćuk Topology Based Improved Power Quality Single Phase AC to DC Converter \[Thesis topic\]
+4.  [Implementation of portable electronic mini weather station](https://shparvez001.github.io/projects.html#weather)
+5.  [Biomedical Data Acquisition, Storage and Delivery System for Remote Health Monitoring](https://shparvez001.github.io/projects.html#biom)
+6.  [Micro-controller based fire alarm system with extinguisher](https://shparvez001.github.io/projects.html#fire-fighting-system)
+7.  [Implementation of submarine robot for underwater navigation and communication](https://shparvez001.github.io/projects.html#submarine-bot)
+8.  [Low cost data transmission system via LED lighting with over 50 Bps speed](https://shparvez001.github.io/projects.html#lifi)
+9.  [Temperature logger for Biomedical Use](https://shparvez001.github.io/projects.html#temp-logger)
+10.  [Remote control Robotic Car](https://shparvez001.github.io/projects.html#rcr-car)
+11.  Design and implementation of home automation system
+12.  Cell phone controlled mini car
+13.  [Anemometer](https://shparvez001.github.io/projects.html#anemometer)
+14.  Implementing Voltmeter, Ammeter and Watt-meter using micro-controller
+15.  Digital IC tester
+16.  Micro-controller based clock with stopwatch and timer.
+17.  [Micro-controller based rotating POV display](https://shparvez001.github.io/projects.html#pov-display)
+18.  Single Phase 150 VA transformer
+19.  Construction of a three-phase inductive load
+20.  Designing of electrical service system of a garments floor.
 
 ## Training and certificates
 
+*   Professional Development Training on Bangladesh National Qualification Framework (BNQF) and Outcome Based Education (OBE) Curriculum, Institutional Quality Assurance Cell (IQAC), NEUB, Feb 2022 and Apr 2022
+*   Quality Assurance and Self-Assessment Exercise, Institutional Quality Assurance Cell (IQAC), NEUB, Mar 2019
 *   Industrial Technology on Electrical Engineering & Instrumentation, Training Institute for Chemical Industries (TICI), Narsingdi Apr 2015 – May 2015 Duration : 1 Month, Grade : A
 *   Information Technology Engineers Examination, IT Passport Exam, Bangladesh Computer Council, Dhaka. Oct 2016 Merit Position: 3rd
 *   The Technology Workshop: Empowering Students With Telecommunication Technology, SUST
+*   Participated in numerous Project competitions and showcasing.
 
 ### MOOCs completed
 
