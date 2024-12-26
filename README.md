@@ -177,12 +177,12 @@ I always had the passion to learn new things in new ways. In my opinion MOOC is 
 ## Websites
 
 I am a hobbyist web developer. I have designed some websites (Not so popular) for my own personal satisfaction.  
-My portfolio of websites includes my personal websites, blogs and other Organisation sites. I used to host my sites on a dedicated domain but I have recently stopped using that domain. Some of my old sites are listed here
+My portfolio of websites includes my personal websites, blogs and other Organisation sites. I used to host my sites on a dedicated domain but I have recently stopped using that domain. Some of my old sites are listed here (I am not maintaining them currently. So I expect them to go down over time). 
 
-1.  Blog of me: [http://blog.shparvez.net](http://blog.shparvez.net)
-2.  My site where I upload contents for different examination preparation content: [http://www.students.shparvez.net/](http://www.students.shparvez.net/)
-3.  For North East University Bangladesh Students there is [http://neub.shparvez.net](http://neub.shparvez.net), where I upload and share information related to the courses I teach there.
-4.  For Sylhet Engineering College Students there is [http://sec.shparvez.net](http://sec.shparvez.net), where I used to upload and share information related to the courses I teach there. The website is currently inactive.
-5.  During my time as student in SUST, I developed website for our department using joomla. A copy of the website is available here: [http://shparvez.net/eee](http://shparvez.net/eee) .
+1.  Blog of me: [http://blog.shparvez.net](http://blog.shparvez.net) \[[Mirror](https://shparvez001.wordpress.com/)\]
+2.  My site where I upload contents for different examination preparation content: [http://www.students.shparvez.net/](http://www.students.shparvez.net/)\[[Mirror](#)\]
+3.  For North East University Bangladesh Students there is [http://neub.shparvez.net](http://neub.shparvez.net), where I upload and share information related to the courses I teach there.\[[Mirror](https://shpneub.wordpress.com/)\]
+4.  For Sylhet Engineering College Students there is [http://sec.shparvez.net](http://sec.shparvez.net), where I used to upload and share information related to the courses I teach there. The website is currently inactive. 
+5.  During my time as student in SUST, I developed website for our department using joomla. A copy of the website is available here: [http://shparvez.net/eee](http://shparvez.net/eee) .\[[Mirror](#)\]
 
 
