@@ -123,21 +123,23 @@ O level
 
 ## Projects Completed
 
+1. [NEUB Degree Verification System](https://neub.edu.bd/dvs/)
+2. [NEUB Online Admission System](https://neub.edu.bd/apply/)
 1.  Analysis and Implementation of Ćuk Topology Based Improved Power Quality Single Phase AC to DC Converter \[Thesis topic\]
-2.  [Implementation of portable electronic mini weather station](http://shparvez.net/weather-station/)
-3.  [Biomedical Data Acquisition, Storage and Delivery System for Remote Health Monitoring](http://biom.shparvez.net)
-4.  [Micro-controller based fire alarm system with extinguisher](http://shparvez.net/fire-fighting-system/)
-5.  [Implementation of submarine robot for underwater navigation and communication](http://shparvez.net/submarine/)
-6.  [Low cost data transmission system via LED lighting with over 50 Bps speed](http://shparvez.net/small-scale-lifi/)
-7.  [Temperature logger for Biomedical Use](http://shparvez.net/temp-logger/)
-8.  [Remote control Robotic Car](http://shparvez.net/rcr-car/)
+2.  [Implementation of portable electronic mini weather station](https://shparvez001.github.io/projects.html#weather)
+3.  [Biomedical Data Acquisition, Storage and Delivery System for Remote Health Monitoring](https://shparvez001.github.io/projects.html#biom)
+4.  [Micro-controller based fire alarm system with extinguisher](https://shparvez001.github.io/projects.html#fire-fighting-system)
+5.  [Implementation of submarine robot for underwater navigation and communication](https://shparvez001.github.io/projects.html#submarine-bot)
+6.  [Low cost data transmission system via LED lighting with over 50 Bps speed](https://shparvez001.github.io/projects.html#lifi)
+7.  [Temperature logger for Biomedical Use](https://shparvez001.github.io/projects.html#temp-logger)
+8.  [Remote control Robotic Car](https://shparvez001.github.io/projects.html#rcr-car)
 9.  Design and implementation of home automation system
 10.  Cell phone controlled mini car
-11.  [Anemometer](http://shparvez.net/anemometer/)
+11.  [Anemometer](https://shparvez001.github.io/projects.html#anemometer)
 12.  Implementing Voltmeter, Ammeter and Watt-meter using micro-controller
 13.  Digital IC tester
 14.  Micro-controller based clock with stopwatch and timer.
-15.  [Micro-controller based rotating POV display](http://shparvez.net/pov-display/)
+15.  [Micro-controller based rotating POV display](https://shparvez001.github.io/projects.html#pov-display)
 16.  Single Phase 150 VA transformer
 17.  Construction of a three-phase inductive load
 18.  Designing of electrical service system of a garments floor.
