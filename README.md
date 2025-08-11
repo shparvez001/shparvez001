@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### North East University Bangladesh
 
-Teaching Different courses and Take Lab related to the subjects. Coordinating department management related tasks like creating course offer list and routines, etc..<br>
+Teaching Different courses and Take Lab related to the subjects. Coordinating department management related tasks like creating course offer list and routines, etc..<br>Served as Assistant Proctor and advisor to various student clubs.<br>
 **Assistant Professor [March 2022 - Present]**<br>
 **Lecturer [January 2018 - February 2022]**<br>
 
@@ -55,6 +55,8 @@ Teaching Different courses and Take Lab related to the subjects. Coordinating de
 * Microprocessor and Interfacing 
 * Mobile and Wireless Communication 
 * Digital Signal Processing
+* Structured Programming Language
+* Technical Writing and Presentation
 * Introduction to Computers
 
 
