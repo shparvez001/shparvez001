@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 ### North East University Bangladesh
 
-Teaching Different courses and Take Lab related to the subjects. Coordinating department management related tasks like creating course offer list and routines, etc..<br>Served as Assistant Proctor and advisor to various student clubs.<br>
-**Assistant Professor [March 2022 - Present]**<br>
+Teaching Different courses and Take Lab related to the subjects. Coordinating department management related tasks like creating course offer list and routines, etc..<br>Served as Assistant Proctor and advisor to various student clubs.<br>Apart from academic task, I was actively involved in maintaining university digital presence including website maintenance (Development and upgradation) and digital marketing (including graphics designing).<br>
+**Assistant Professor [March 2022 - Present(Currently on Study Leave)]**<br>
 **Lecturer [January 2018 - February 2022]**<br>
 
 **Courses Taught**
@@ -75,6 +75,9 @@ Teaching Different courses and Take Lab related to the subjects.<br>
 
 
 ## Education
+### University of Hertfordshire [Ongoing]
+
+MSc Power Electronics and Control
 
 ### Shahjalal University of Science and Technology
 
@@ -93,12 +96,12 @@ O level
 
 | **Programming**             | **Embedded Platforms** | **Simulation**                                | **Data Analysis** |
 |-----------------------------|------------------------|-----------------------------------------------|--------------------|
-| C                           | AVR                    | Circuit: PSpice, Psim                        | R                 |
-| Python                      | PIC                    | PCB: Proteus, Eagle                          | Python            |
+| C                           | AVR                    | Circuit: Simulink, PSpice, Psim                        | R                 |
+| Python                      | PIC                    | PCB: Proteus, Eagle, EasyEDA                          | Python            |
 | Matlab                      | Arduino                | Power System: IPSA, Neplan, Power world      | Azure ML          |
 | Assembly                    |                        | CAD: Autocad, Autodesk 123d                  | Excel             |
-| Latex                       |                        | COMSOL                                       |                   |
-| Processing                  |                        | Simulink                                     |                   |
+| Latex                       |                        | COMSOL                                       | SPSS                  |
+| Processing                  |                        | Simulink [Power system and Power Electronics]                                     |                   |
 |                             |                        | Fritzing                                     |                   |
 
  
