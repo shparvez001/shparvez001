@@ -130,6 +130,7 @@ O level
 
 1.  [NEUB Degree Verification System](https://neub.edu.bd/dvs/)
 2.  [NEUB Online Admission System](https://neub.edu.bd/apply/)
+2. Inventory Management System for pharmaceutical distributors
 3.  Analysis and Implementation of Ćuk Topology Based Improved Power Quality Single Phase AC to DC Converter \[Thesis topic\]
 4.  [Implementation of portable electronic mini weather station](https://shparvez001.github.io/projects.html#weather)
 5.  [Biomedical Data Acquisition, Storage and Delivery System for Remote Health Monitoring](https://shparvez001.github.io/projects.html#biom)
